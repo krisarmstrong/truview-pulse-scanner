@@ -1,0 +1,100 @@
+PROGRAM_VERSION=  1.10
+
+Scan IP Network: 129.196.196.0/23
+Scan Begin Addr: 129.196.196.1
+Scan End Addr:   129.196.197.254
+
+IP Address=  129.196.196.57
+MAC Address=  00C01733030E
+Build Version=  2.1.154
+
+IP Address=  129.196.196.95
+MAC Address=  none
+Build Version=  2.1.156
+
+IP Address=  129.196.196.98
+MAC Address=  00C017330ED0
+Build Version=  2.2.125
+
+IP Address=  129.196.196.100
+MAC Address=  00C0173300D2
+Build Version=  2.1.156
+
+IP Address=  129.196.196.116
+MAC Address=  00C017330353
+Build Version=  2.1.156
+
+IP Address=  129.196.196.118
+MAC Address=  00C01733050F
+Build Version=  2.1.156
+
+IP Address=  129.196.196.119
+MAC Address=  00C017330320
+Build Version=  2.1.154
+
+IP Address=  129.196.196.144
+MAC Address=  00c017330037
+Build Version=  2.1.156
+
+IP Address=  129.196.196.167
+MAC Address=  00C0173300EA
+Build Version=  2.2.102
+
+IP Address=  129.196.196.184
+MAC Address=  00C01733014E
+Build Version=  2.1.157
+
+IP Address=  129.196.196.187
+MAC Address=  00C01733001E
+Build Version=  2.1.156
+
+IP Address=  129.196.196.218
+MAC Address=  00C017330380
+Build Version=  2.3.1004
+
+IP Address=  129.196.196.220
+MAC Address=  00C0173301AB
+Build Version=  2.1.154
+
+IP Address=  129.196.196.223
+MAC Address=  00C0173301F5
+Build Version=  2.2.125
+
+IP Address=  129.196.197.0
+MAC Address=  00C0173313FD
+Build Version=  2.3.1004
+
+IP Address=  129.196.197.5
+MAC Address=  00C017331435
+Build Version=  2.2.125
+
+IP Address=  129.196.197.6
+MAC Address=  00C0173313D7
+Build Version=  2.2.125
+
+IP Address=  129.196.197.10
+MAC Address=  00c017330034
+Build Version=  2.1.157
+
+IP Address=  129.196.197.11
+MAC Address=  00C0173313F7
+Build Version=  2.3.1004
+
+IP Address=  129.196.197.35
+MAC Address=  00C017330511
+Build Version=  2.3.1004
+
+IP Address=  129.196.197.74
+MAC Address=  00C017330654
+Build Version=  2.1.156
+
+IP Address=  129.196.197.75
+MAC Address=  00C017330F00
+Build Version=  2.3.1004
+
+IP Address=  129.196.197.127
+MAC Address=  00C017330512
+Build Version=  2.3.1004
+
+DONE
+Total BigRed units found= 23
