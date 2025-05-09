@@ -1,0 +1,35 @@
+# BigRed WebSocket Client Changelog
+
+## Version 3.0.0 (April 18, 2025)
+
+- Refactored for Python 3 compatibility, removing Python 2-specific code.
+- Replaced netaddr with ipaddress from the standard library.
+- Replaced websocket-client with websockets (see requirements.txt).
+- Implemented asynchronous WebSocket communication using asyncio.
+- Added Config class for global constants.
+- Improved command-line parsing with argparse and validation.
+- Added logging to bigred_websocket.log with verbose console option.
+- Enhanced error handling for network, WebSocket, and parsing operations.
+- Updated output formatting for consistency and clarity.
+- Added comprehensive docstrings and comments per PEP 8.
+- Ensured compatibility with embedded systems.
+- Set up Git repository with .gitignore, bump_version.py, and requirements.txt.
+- Added README.md and changelog.txt for documentation.
+- Corrected product references to NetScout nGeniusPULSE (formerly TruView Pulse).
+- Archived original script (version 2.10) in archive/v2.10/.
+- Incremented to version 3.0.0 due to major overhaul.
+
+## Version 2.10 (September 4, 2019)
+
+- Converted to Python 3 (initial attempt).
+- Tested on Python 2.7.3 for Linux.
+- Added support for command-line options: network, MAC filter, timeout, display level, language.
+- Supported queries for multiple device attributes (e.g., MAC, build, temperature).
+- Added English and Spanish translations for output.
+- Used websocket-client and netaddr libraries.
+- Configured default network to Fluke Colorado PRODUCTION (129.196.196.0/23).
+
+## Version 2.0 (Date Unknown)
+
+- Initial release for Python 2.7.
+- Basic WebSocket client for TruView Pulse (later nGeniusPULSE) discovery.
